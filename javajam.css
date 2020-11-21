@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+	color:#FCEBB6;
+	text-color:#221811;
+	font-family:Verdana;
+}
+h1 {
+	background-color:#4287f5;
+	line-height: 200%;
+}
+nav {
+	text-align:center;
+	font-weight:bold;
+}
+
+footer {
+	background-color:#4287f5;
+	font-size:small;
+	text-align:center;
+	font-style:italic;
+}
+#wrapper {
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+</html>
+</head>
